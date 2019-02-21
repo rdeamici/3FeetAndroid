@@ -1,3 +1,8 @@
+// 3Feet Bicycle safety app
+//
+//  Created by Richard DeAmicis on 2/18/19.
+//  Copyright © 2019 Richard DeAmicis. All rights reserved.
+
 package com.esri.arcgisruntime.displaydevicelocation;
 
 import android.Manifest;
